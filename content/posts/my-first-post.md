@@ -1,0 +1,14 @@
+---
+title: "My First Post"
+date: 2022-01-28T18:43:30+01:00
+draft: true
+---
+
+Hello This is my first post 
+
+
+```rust
+fn main() {
+    println!(b" Test");
+}
+```
