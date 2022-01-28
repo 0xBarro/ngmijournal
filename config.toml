@@ -1,4 +1,4 @@
-baseurl = '/'
+baseURL = 'https://0xbarro.github.io/ngmijournal'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
